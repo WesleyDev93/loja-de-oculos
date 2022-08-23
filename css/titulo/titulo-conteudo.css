@@ -10,11 +10,12 @@
 
 
 .titulo__conteudo02 {
-font-family: Montserrat , cursive;
-font-size: 30px;
-font-weight: 300;
-line-height: 37px;
-letter-spacing: 0em;
-text-align: left;
+    color: #6B6463;
+   font-family: Montserrat , cursive;
+   font-size: 20px;
+   font-weight: 300;
+   line-height: 37px;
+   letter-spacing: 0em;
+   text-align: left;
 
 }
