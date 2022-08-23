@@ -1,0 +1,12 @@
+.titulo {
+    display: flex;
+    flex-direction: column;
+}
+
+.titulo {
+    left: 950px;
+    position: relative;
+    top: 10px;
+    width: 50%;
+    
+}
