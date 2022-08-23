@@ -3,7 +3,7 @@
     height: 285px;
     left: 1210px;
     position: absolute;
-    top: 848px;
+    top: 800px;
     width: 285px;
     
     
@@ -49,5 +49,7 @@
  
 
  #quinta {  
-    width: 1600px;
+    height: 1000px;
+    width: 1500px;
+    margin-left: 2px;
  }
