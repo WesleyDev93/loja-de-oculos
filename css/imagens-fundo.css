@@ -1,9 +1,43 @@
 
 #primeira {
-    position: absolute;
-    width: 400px;
-    height: 400px;
+    height: 285px;
     left: 1210px;
+    position: absolute;
     top: 848px;
+    width: 285px;
+    
     
 }
+
+
+#segunda {
+    height: 123px;
+    left: 899px;
+    position: absolute;
+    top: 478px;
+    width: 123px;
+    
+    
+}
+
+#terceira {
+    height: 283px;
+    left: 631px;
+    position: absolute;
+    width: 283px;
+    top: 136px;
+    
+}
+
+
+
+#quarta {  
+   height: 464px;
+   left: 0px;
+   position: absolute;
+   top: 187px;
+   width: 464px;
+
+
+}
+
