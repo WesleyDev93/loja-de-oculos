@@ -1,4 +1,14 @@
-.carrinhoeconta {
-    position: relative;
-    left: 900px;
+#carrinho {
+   height: 27px;
+   width: 31px;
+
 }
+
+
+
+#conta {
+    height: 25px;
+    width: 22px;
+}
+        
+    
