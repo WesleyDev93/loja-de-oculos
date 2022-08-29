@@ -5,3 +5,19 @@
     font-weight: 600;
     text-align: center;
 }
+
+
+#posicaotexto{
+       bottom: 280px;
+       color: black;
+       position: relative;
+       right: 230px;
+}
+
+
+#posicaoimg {
+    bottom: 310px;
+    position: relative;
+    left: 330px;
+    
+}
