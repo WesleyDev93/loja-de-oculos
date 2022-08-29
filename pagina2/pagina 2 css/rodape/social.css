@@ -1,3 +1,26 @@
 .social {
     text-align: center;
+    margin-top: 15px;
 }
+
+
+.estilosocial {
+    margin-bottom: 15px;
+}
+
+
+
+
+#posicaosocial {
+    margin-top: 15px;
+    margin-left: 15px;
+    
+}
+
+
+#estilosocial {
+    color: #6B6463;
+    font-family: Montserrat , cursive;
+}
+
+
