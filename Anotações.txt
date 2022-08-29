@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     
+    <link rel="stylesheet" href="./boosttrap/css/bootstrap.css">
+    <link rel="stylesheet" href="./css/reset.css">
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="./css/logo.css">
+    <link rel="stylesheet" href="./css/menu/menu.css">
+    <link rel="stylesheet" href="./css/menu/menu-item.css">
+    <link rel="stylesheet" href="./css/imagens-fundo.css">
+    <link rel="stylesheet" href="./css/titulo/titulo.css">
+    <link rel="stylesheet" href="./css/titulo/titulo-conteudo.css">
+    <link rel="stylesheet" href="./css/botao.css">
+
+
+
+    <title>Miya Store</title>
+</head>
+<body class="estilo">
+    <figure><img  class="logo" src="./img/logo MiyaStore.png" alt="MiyaStore logo"></figure>
+
+    <section class="menu">
+             
+        <p class="menu__item"><a href="#">Descubra</a></p>
+        <p class="menu__item"><a href="main.html">Participe</a></p>
+     
+    </section>
+     
+    <section class="imagens-fundo">
+        <figure><img id="primeira" src="./img/Ellipse 1.png" ></figure>
+        <figure><img id="segunda" src="./img/Ellipse 2.png" ></figure>
+        <figure><img id="terceira" src="./img/Ellipse 3.png" ></figure>
+        <figure><img id="quarta" src="./img/Ellipse 4.png" ></figure>   
+        <figure><img id="quinta" src="./img/portrait-smiling-beautiful-girl-her-handsome-boyfriend-laughing-happy-cheerful-couple-sunglasses 3.png" alt=" Pessoas usando oculos de SOL"></figure>
+    </section>
+
+     <section class="titulo" >
+           
+        <h1 class="titulo__conteudo">Óculos novos em um estalar de dedos!</h1>
+
+        <p class="titulo__conteudo02">Compre óculos dos mais variados com a MiyaStore !</p>
+
+        <button type="button" class="btn btn-primary  botao"><a href="main.html">Peça Agora!</a></button>
+     
+     </section>
+
+</body>
+</html>
