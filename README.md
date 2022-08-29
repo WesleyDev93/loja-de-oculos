@@ -4,7 +4,7 @@ Projeto desenvolvido através de um Layout do figma.
 O projeto consiste em uma pagina Web para uma loja de Óculos.
 O projeto foi desenvolvido com HTML| CSS | JAVASCRIPT | BOOTSTRAP5
 
-nele temos os produtos , logos , e um carrosel com imagens.
+Com uma pagina introdutoria ao site com um botão que leva a pagina principal , nela temos os produtos , logos , e um carrosel com imagens.
 
 Projeto foi focado no uso do BOOTSTRAP5 , com melhoria de tecnicas aplicadas nas demais tecnologias.
 
@@ -65,24 +65,34 @@ um pouco do codigo
  
  
  
- Resultado Final 
+ Resultado Final da pagina 01
+ 
+ 
+ ![image](https://user-images.githubusercontent.com/108889735/187272437-a406af0e-732d-4d5f-97e5-bfc84f4ed90a.png)
+
  
  
  
  
- ![image](https://user-images.githubusercontent.com/108889735/187268699-33195087-93cc-4f62-94e9-788f27d2dbc9.png)
+  Resultado Final da pagina 02
+  
+  Começo da pagina:
+ 
+ ![image](https://user-images.githubusercontent.com/108889735/187269567-58993b60-70bb-4756-899a-02bcd58fbfc4.png)
  
  
  
  
  
  
+ Final da pagina:
  
- ![image](https://user-images.githubusercontent.com/108889735/187269110-e6a22c59-7972-467b-b0f3-958e0b23397b.png)
+ 
+ ![image](https://user-images.githubusercontent.com/108889735/187269674-c53de124-0b62-4cb1-8f57-1b1b95c5e7fd.png)
 
 
-
-
+ 
+ 
 
 
 
