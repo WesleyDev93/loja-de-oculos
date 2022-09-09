@@ -1,6 +1,6 @@
 # loja-de-oculos
 
-## Índice
+### Índice
 
 - [Visão Geral](#visão-geral)
   - [O desafio](#the-challenge)
@@ -11,7 +11,7 @@
 - [Autor](#autor)
 
 
-## Visão geral
+### Visão geral
 
 O projeto consiste em uma pagina Web para uma loja de Óculos.
 
@@ -45,7 +45,7 @@ Resultado Final da pagina 02
 
 
 
-## Meu processo
+### Meu processo
 
 Utilizando a documentação do Boostrap5, junto anotações para uso do framework.
 
